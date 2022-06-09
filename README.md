@@ -7,20 +7,20 @@
 
 # Development Environment
 
-## Unity Hub
-## Unity (Personal Edition)
-## Scripting of the game done in C#.
-## Various Unity Asset Packages
+* Unity Hub
+* Unity (Personal Edition)
+* Scripting of the game done in C#.
+* Various Unity Asset Packages
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
+
 * [Unity Microgames](https://learn.unity.com/course/microgames-learn-the-basics-of-unity)
 * [YouTube Tutorials](YouTube.com)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
+
 * Add additional movements other than jumping and horizontal movement.
 * Create a more appealing scene environment.
 * Make the objects animated and other sounds on object collision.
